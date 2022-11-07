@@ -48,13 +48,13 @@ Estão dentro do arquivo de fonte `icones.ttf`. Para usar, primeiro importe a fo
 
 > Cuidado com a localização do arquivo `icones.ttf`
 
-Camisas = `\e900`
+shirts = `\e900`
 
 Carrinho = `\e901`
 
-Inicio = `\e902`
+home = `\e902`
 
-Integrantes = `\e903`
+members = `\e903`
 
 Menu = `\e904`
 
@@ -64,9 +64,9 @@ Notificação = `\e906`
 
 Pico = `\e908`
 
-Picos = `\e909`
+peaks = `\e909`
 
-Pinturas = `\e90a`
+paintings = `\e90a`
 
 Play = `\e90b`
 
@@ -76,7 +76,7 @@ Seta-baixo = `\e90d`
 
 Videos = `\e90e`
 
-Visualizacao = `\e90f`
+visualization = `\e90f`
 
 ## Espaçamentos
 
