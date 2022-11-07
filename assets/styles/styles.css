@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'icons';
+    src: url(../font/icons.ttf);
+}
+
+body {
+    background-color: #1D232A;
+    font-family: 'Open Sans', 'icons', sans-serif;
+    color: #FFFFFF;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #15191C;
+    padding: 8px 16px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.16);
+}
+
+.menu_header i::before {
+    content: "\e904";
+    font-size: 24px;
+}
+
+.notification_header i::before {
+    content: "\e906";
+    font-size: 24px;
+}
+
+.logo_header {
+    width: 40px;
+}

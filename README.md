@@ -15,25 +15,25 @@ Open Sans:
 
 ## Cores
 
-corpo: `#1D232A`
+body: `#1D232A`
 
-cabeçalho: `#1D232A`
+header: `#1D232A`
 
-cabeçalho mobile: `#15191C`
+header mobile: `#15191C`
 
 menu lateral: `#15191C`
 
 cartão: `#2C343A`
 
-fonte: `#FFFFFF`
+font: `#FFFFFF`
 
-fonte alternativa: `#95999C`
+font alternative: `#95999C`
 
 links: `#0480DC`
 
-botão: `#0480DC`
+button: `#0480DC`
 
-sombras: `0px 4px 4px rgba(0, 0, 0, 0.16)`
+shadow: `0px 4px 4px rgba(0, 0, 0, 0.16)`
 
 ## Ícones
 
@@ -41,8 +41,8 @@ Estão dentro do arquivo de fonte `icones.ttf`. Para usar, primeiro importe a fo
 
 ```css
 @font-face {
-    font-family: 'icones';
-    src: url(../font/icones.ttf);
+    font-family: 'icons';
+    src: url(../font/icons.ttf);
 }
 ```
 
