@@ -21,9 +21,9 @@ header: `#1D232A`
 
 header mobile: `#15191C`
 
-menu lateral: `#15191C`
+lateral menu: `#15191C`
 
-cartão: `#2C343A`
+card: `#2C343A`
 
 font: `#FFFFFF`
 
@@ -50,7 +50,7 @@ Estão dentro do arquivo de fonte `icones.ttf`. Para usar, primeiro importe a fo
 
 shirts = `\e900`
 
-Carrinho = `\e901`
+buy = `\e901`
 
 home = `\e902`
 
@@ -58,11 +58,11 @@ members = `\e903`
 
 Menu = `\e904`
 
-Moeda = `\e905`
+coin = `\e905`
 
-Notificação = `\e906`
+Notification = `\e906`
 
-Pico = `\e908`
+Peak = `\e908`
 
 peaks = `\e909`
 
@@ -70,9 +70,9 @@ paintings = `\e90a`
 
 Play = `\e90b`
 
-Relogio = `\e90c`
+Clock = `\e90c`
 
-Seta-baixo = `\e90d`
+Down arrow = `\e90d`
 
 Videos = `\e90e`
 
@@ -80,7 +80,7 @@ visualization = `\e90f`
 
 ## Espaçamentos
 
-Espaço interno botão: `8px`
+padding button: `8px`
 
 Espaço entre elementos do botão: `8px`
 
