@@ -94,7 +94,7 @@ Espaçamento entre o título do cartão de recentes e seus itens: `24px`
 
 Tamanho do dispositivo mobile: `360px`
 
-Tamanho do dispositivo desktop: `1440px`
+Tamanho do dispositivo desktop: `768px`
 
 Largura máxima do conteúdo principal: `1120px`
 
