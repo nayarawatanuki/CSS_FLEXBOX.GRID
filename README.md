@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="HZC - comunidade de skate" src="https://raw.githubusercontent.com/nayarawatanuki/css__flexbox-grid/main/assets/img/README.md/HZC%20-%20Cover.png"/>
+  <img alt="HZC - comunidade de skate" src="https://raw.githubusercontent.com/nayarawatanuki/css-flexbox-grid__hzc/main/assets/img/README.md/HZC%20-%20Cover.png"/>
 </h1>
 
 ### Índice
@@ -15,7 +15,7 @@
 </br>
 
 ## :pencil: Descrição do Projeto
-O projeto **[HZC](https://nayarawatanuki.github.io/css__flexbox-grid/)**, é uma proposta de página web para uma comunidade de skate. 
+O projeto **[HZC](https://nayarawatanuki.github.io/css-flexbox-grid__hzc/)**, é uma proposta de página web para uma comunidade de skate. 
 Esse projeto contém o objetivo de aprender a fazer uma página utilizando: 
 - HTML e CSS (conhecimentos já adquiridos); 
 - introduzir o Javascript. 
@@ -52,8 +52,8 @@ Isso tudo foi realizado com as seguintes aulas:
 </br>
 
 ## :open_file_folder: Acesso ao projeto
-Você pode acessar o [código fonte do projeto](https://github.com/nayarawatanuki/css__flexbox-grid) ou 
-[baixá-lo](https://github.com/nayarawatanuki/css__flexbox-grid/archive/refs/heads/main.zip).
+Você pode acessar o [código fonte do projeto](https://github.com/nayarawatanuki/css-flexbox-grid__hzc) ou 
+[baixá-lo](https://github.com/nayarawatanuki/css-flexbox-grid__hzc/archive/refs/heads/main.zip).
 
 Caso obte por baixá-lo: 
 Após baixar o projeto, você pode abrir com o VS Code. Para isso, abra o explorer (primeiro icone no menu) clique em:
@@ -64,9 +64,9 @@ Após baixar o projeto, você pode abrir com o VS Code. Para isso, abra o explor
 </br>
 
 ## :rocket: Abrir e rodar o projeto
-Caso tenha interesse em visualizar o que foi realizado: [HZC - comunidade de skate](https://nayarawatanuki.github.io/css__flexbox-grid/) 
+Caso tenha interesse em visualizar o que foi realizado: [HZC - comunidade de skate](https://nayarawatanuki.github.io/css-flexbox-grid__hzc/) 
 
-Ou, caso prefira baixá-lo clicando [aqui](https://github.com/nayarawatanuki/css__flexbox-grid/archive/refs/heads/main.zip).
+Ou, caso prefira baixá-lo clicando [aqui](https://github.com/nayarawatanuki/css-flexbox-grid__hzc/archive/refs/heads/main.zip).
 
 > Após baixar o projeto, abra a pasta do projeto (Caso o projeto seja baixado em zip, é necessário extraí-lo antes de abrir), então clique no:
 > - Aqruivo **``index.html``**
@@ -75,7 +75,7 @@ Ou, caso prefira baixá-lo clicando [aqui](https://github.com/nayarawatanuki/css
 </br>
 
 ## :keyboard: Tecnologias utilizadas
-![HTML + CSS](https://raw.githubusercontent.com/nayarawatanuki/css__flexbox-grid/main/assets/img/README.md/html-css-js.PNG)</br>
+![HTML + CSS](https://raw.githubusercontent.com/nayarawatanuki/css-flexbox-grid__hzc/main/assets/img/README.md/html-css-js.PNG)</br>
 
 </br>
 
