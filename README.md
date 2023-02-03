@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="HZC - comunidade de skate" src="https://raw.githubusercontent.com/nayarawatanuki/css-flexbox-grid__hzc/main/assets/img/README.md/HZC%20-%20Cover.png"/>
+  <img alt="HZC - comunidade de skate" src="https://raw.githubusercontent.com/nayarawatanuki/css-flexbox-grid__hzc/main/assets/img/README.md/HZC%20-%20Cover.png#vitrinedev"/>
 </h1>
 
 ### Índice
@@ -20,7 +20,7 @@ Esse projeto contém o objetivo de aprender a fazer uma página utilizando:
 - HTML e CSS (conhecimentos já adquiridos); 
 - introduzir o Javascript. 
 
-</br>Desenvolvido para o curso de **CSS: DISPONDO ELEMENTOS COM FLEXBOX E GRID** da platforma [Alura](https://www.alura.com.br/).
+</br>Desenvolvido para o curso de **CSS: DISPONDO ELEMENTOS COM FLEXBOX E GRID** da plataforma [Alura](https://www.alura.com.br/).
 
 </br>
 
